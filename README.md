@@ -115,7 +115,7 @@ To view:
 
 - More nuanced branching logic  
 - Enhanced summary generation  
-- CLI or web-based implementation  
+- web-based implementation  
 - Tracking reflection over time  
 
 ---
